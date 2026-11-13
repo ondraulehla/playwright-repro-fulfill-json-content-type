@@ -1,0 +1,10 @@
+{
+  "name": "playwright-repro-fulfill-json-content-type",
+  "private": true,
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.65.1"
+  }
+}
